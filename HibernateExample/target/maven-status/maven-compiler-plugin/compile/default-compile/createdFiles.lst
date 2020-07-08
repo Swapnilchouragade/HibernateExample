@@ -1,0 +1,6 @@
+com\mkyong\persistence\HibernateUtil.class
+com\mkyong\common\Stock.class
+com\mkyong\App.class
+com\mkyong\common\App.class
+com\mkyong\util\HibernateUtil.class
+com\mkyong\user\DBUser.class
