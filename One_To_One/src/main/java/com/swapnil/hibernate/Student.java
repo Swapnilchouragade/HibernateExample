@@ -1,4 +1,4 @@
-package com.jbk;
+package com.swapnil.hibernate;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;

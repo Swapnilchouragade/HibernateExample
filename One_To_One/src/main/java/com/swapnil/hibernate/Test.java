@@ -1,4 +1,4 @@
-package com.jbk;
+package com.swapnil.hibernate;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
